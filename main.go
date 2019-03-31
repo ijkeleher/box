@@ -55,6 +55,6 @@ func setUpRoutes() {
 }
 
 func main() {
-	fmt.Println("Welcome to GoShare")
+	fmt.Println("Welcome to GoShare, a file sharing app written in Go")
 	setUpRoutes()
 }
