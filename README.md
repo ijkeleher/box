@@ -1,2 +1,2 @@
-install dependencies with "yarn install"
+install dependencies with "yarn install" while inside /frontend
 
